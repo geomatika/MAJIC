@@ -1,0 +1,277 @@
+DFORME,DFORMJUR,VALEUR,ORMC_CATTIERS,ORMC_NATJUR
+1100,,Artisan-commerçant,01,01
+1200,,Commerçant,01,01
+1300,,Artisan,01,01
+1400,,Officier public ou ministériel,29,07
+1500,,Profession libérale,01,01
+1600,,Exploitant agricole,01,01
+1700,,Agent commercial,01,01
+1800,,Associé gérant de Société,50,03
+1900,,(Autre) Personne physique,01,01
+2110,,Indivision entre personnes physiques,01,01
+2120,,Indivision avec personne morale,50,03
+2210,STE,Société créée de fait entre personnes physiques,50,03
+2220,STE,Société créée de fait avec personne morale,50,03
+2310,STE,Société en participation entre personnes physiques,50,03
+2320,STE,Société en participation avec personne morale,50,03
+2385,STE,Société en participation de professions libérales,50,03
+2400,,Fiducie,,
+2700,PAR,Paroisse hors zone concordataire,20,07
+2900,,Autre groupement de droit privé non doté de la personnalité morale,,
+3110,,Représentation ou agence commerciale d’état ou organisme public étranger immatriculé au RCS,,
+3120,STE,Société commerciale étrangère immatriculée au RCS,50,03
+3205,,Organisation internationale,29,10
+3210,,État collectivité ou établissement public étranger,29,07
+3220,STE,Société étrangère non immatriculée au RCS,50,03
+3290,,Autre personne morale de droit étranger,29,10
+4110,EPIC,Établissement public national à caractère industriel ou commercial doté d’un comptable public,20,08
+4120,EPIC,Établissement public national à caractère industriel ou commercial non doté d’un comptable public,20,08
+4130,,Exploitant public,,
+4140,EPIC,Établissement public local à caractère industriel ou commercial,20,08
+4150,REGI,Régie d’une collectivité locale à caractère industriel ou commercial,,
+4160,BDF,Institution Banque de France,,
+5191,SCCP,Société de caution mutuelle,64,04
+5192,SCCP,Société coopérative de banque populaire,50,03
+5193,SCCP,Caisse de crédit maritime mutuel,65,04
+5194,SCCP,Caisse (fédérale) de crédit mutuel ,65,04
+5195,SCCP,Association coopérative inscrite (droit local Alsace Moselle),50,06
+5196,SCCP,Caisse d’épargne et de prévoyance à forme coopérative,65,04
+5202,SNC,Société en nom collectif,50,03
+5203,SNC,Société en nom collectif coopérative,50,03
+5306,SCOM,Société en commandite simple,50,03
+5307,SCOM,Société en commandite simple coopérative,50,03
+5308,SCOM,Société en commandite par actions,50,03
+5309,SCOM,Société en commandite par actions coopérative,50,03
+5370,SCOM,Société de participations financières de profession libérale société en commandite par action,50,03
+5385,SCOM,Société d’exercice libéral en commandite par actions,50,03
+5410,SARL,SARL nationale,50,03
+5415,SARL,SARL d’économie mixte,50,03
+5422,SARL,SARL immobilière pour le commerce et l’industrie (SICOMI),50,03
+5426,SARL,SARL immobilière de gestion,50,03
+5430,SARL,SARL d’aménagement foncier et d’équipement rural (SAFER),50,03
+5431,SARL,SARL mixte d’intérêt agricole (SMIA),50,03
+5432,SARL,SARL d’intérêt collectif agricole (SICA),50,03
+5442,SARL,SARL d’attribution,50,03
+5443,SARL,SARL coopérative de construction,50,03
+5451,SARL,SARL coopérative de consommation,50,03
+5453,SARL,SARL coopérative artisanale,50,03
+5454,SARL,SARL coopérative d’intérêt maritime,50,03
+5455,SARL,SARL coopérative de transport,50,03
+5458,SARL,SARL coopérative ouvrière de production et de crédit (SCOP),50,03
+5459,SARL,SARL union de sociétés coopératives,50,03
+5460,SARL,Autre SARL coopérative,50,03
+5470,SARL,Société de participations financières de profession libérale société à responsabilité limitée,50,03
+5485,SLRL,Société d’exercice libéral à responsabilité limitée,50,03
+5498,EURL,SARL unipersonnelle,50,03
+5499,SARL,Société à responsabilité limitée (sans autre indication),50,03
+5505,SA,SA à participation ouvrière à conseil d’administration,50,03
+5510,SA,SA nationale à conseil d’administration,50,03
+5515,SEM,SA d’économie mixte à conseil d’administration,50,03
+5520,STE,Fond à forme sociétale à conseil d’administration,50,03
+5522,STE,SA immobilière pour le commerce et l’industrie (SICOMI) à conseil d’administration,50,03
+5525,SA,SA immobilière d’investissement à conseil d’administration,50,03
+5530,,SA d’aménagement foncier et d’équipement rural (SAFER) à conseil d’administration,50,03
+5531,SA,Société anonyme mixte d’intérêt agricole (SMIA) à conseil d’administration,50,03
+5532,SICA,SA d’intérêt collectif agricole (SICA) à conseil d’administration,50,03
+5542,SA,SA d’attribution à conseil d’administration,50,03
+5543,SA,SA coopérative de construction à conseil d’administration,50,03
+5546,SA,SA de HLM à conseil d’administration,50,03
+5547,SA,SA coopérative de production de HLM à conseil d’administration,50,03
+5548,SA,SA de crédit immobilier à conseil d’administration,50,03
+5551,SA,SA coopérative de consommation à conseil d’administration,50,03
+5552,SA,SA coopérative de commerçants-détaillants à conseil d’administration,50,03
+5553,SA,SA coopérative artisanale à conseil d’administration,50,03
+5554,SA,SA coopérative (d’intérêt) maritime à conseil d’administration,50,03
+5555,SA,SA coopérative de transport à conseil d’administration,50,03
+5558,SCOP,SA coopérative ouvrière de production et de crédit (SCOP) à conseil d’administration,50,03
+5559,SA,SA union de sociétés coopératives à conseil d’administration,50,03
+5560,SA,Autre SA coopérative à conseil d’administration,50,03
+5570,SA,Société de participations financières de profession libérale société anonyme à conseil d’administration,50,03
+5585,STE,Société d’exercice libéral à forme anonyme à conseil d’administration,50,03
+5599,SA,SA à conseil d’administration (s.a.i.),50,03
+5605,SA,SA à participation ouvrière à directoire,50,03
+5610,SA,SA nationale à directoire,50,03
+5615,SA,SA d’économie mixte à directoire,50,03
+5620,STE,Fond à forme sociétale à directoire,50,03
+5622,STE,SA immobilière pour le commerce et l’industrie (SICOMI) à directoire,50,03
+5625,STE,SA immobilière d’investissement à directoire,50,03
+5630,,SAFER anonyme à directoire,50,03
+5631,SA,SA mixte d’intérêt agricole (SMIA),50,03
+5632,SA,SA d’intérêt collectif agricole (SICA),50,03
+5642,SA,SA d’attribution à directoire,50,03
+5643,SA,SA coopérative de construction à directoire,50,03
+5646,SA,SA de HLM à directoire,50,03
+5647,STE,Société coopérative de production de HLM anonyme à directoire,50,03
+5648,SA,SA de crédit immobilier à directoire,50,03
+5651,SA,SA coopérative de consommation à directoire,50,03
+5652,SA,SA coopérative de commerçants-détaillants à directoire,50,03
+5653,SA,SA coopérative artisanale à directoire,50,03
+5654,SA,SA coopérative d’intérêt maritime à directoire,50,03
+5655,SA,SA coopérative de transport à directoire,50,03
+5658,SCOP,SA coopérative ouvrière de production et de crédit (SCOP) à directoire,50,03
+5659,SA,SA union de sociétés coopératives à directoire,50,03
+5660,SA,Autre SA coopérative à directoire,50,03
+5670,SA,Société de participations financières de profession libérale société anonyme à directoire,50,03
+5685,SA,Société d’exercice libéral à forme anonyme à directoire,50,03
+5699,SA,SA à directoire (s.a.i.),50,03
+5710,SAS,SAS société par actions simplifiée,50,03
+5720,SAS,Société par actions simplifiée à associé unique ou société par actions simplifiée unipersonnelle,50,03
+5770,SAS,Société de participations financières de profession libérale société anonyme à directoire,50,03
+5785,SAS,Société d’exercice libéral par action simplifiée,50,03
+5800,SE,Société européenne,50,03
+6100,CEP,Caisse d’Épargne et de Prévoyance,65,04
+6210,GIE,Groupement européen d’intérêt économique (GEIE),,
+6220,GIE,Groupement d’intérêt économique (GIE),,
+6316,CUMA,Coopérative d’utilisation de matériel agricole en commun (CUMA),50,03
+6317,SCA,Société coopérative agricole,50,03
+6318,SCA,Union de sociétés coopératives agricoles,50,03
+6411,SAM,Société d’assurance à forme mutuelle,64,04
+6412,SAM,Société mutuelle d’assurance,64,04
+6413,SAM,Union de sociétés mutuelles d’assurances,64,04
+6414,SAM,Autre société non commerciale d’assurance,50,03
+6511,STE,Société interprofessionnelle de soins ambulatoires,50,03
+6521,SCPI,Société civile de placement collectif immobilier (SCPI),50,03
+6532,SICA,Société civile d’intérêt collectif agricole (SICA),50,03
+6533,GAEC,Groupement agricole d’exploitation en commun (GAEC),50,03
+6534,GFA,Groupement foncier agricole,50,03
+6535,GAF,Groupement agricole foncier,50,03
+6536,GFO,Groupement forestier,50,03
+6537,GPAS,Groupement pastoral,50,03
+6538,GFR,Groupement foncier et rural,50,03
+6539,STE,Société civile foncière,50,03
+6540,SCI,Société civile immobilière,50,03
+6541,SCI,Société civile immobilière de construction-vente,50,03
+6542,SC,Société civile d’attribution,50,03
+6543,SC,Société civile coopérative de construction,50,03
+6544,SCI,Société civile immobilière d’accession progressive à la propriété,50,03
+6551,SC,Société civile coopérative de consommation,50,03
+6554,SC,Société civile coopérative d’intérêt maritime,50,03
+6558,SC,Société civile coopérative entre médecins,50,03
+6560,SC,Autre société civile coopérative,50,03
+6561,SCP,SCP d’avocats,50,03
+6562,SCP,SCP d’avocats aux conseils,50,03
+6563,SCP,SCP d’avoués d’appel,50,03
+6564,SCP,SCP d’huissiers,50,03
+6565,SCP,SCP de notaires,50,03
+6566,SCP,SCP de commissaires-priseurs,50,03
+6567,SCP,SCP de greffiers de tribunal de commerce,50,03
+6568,SCP,SCP de conseils juridiques,50,03
+6569,SCP,SCP de commissaires aux comptes,50,03
+6571,SCP,SCP de médecins,50,03
+6572,SCP,SCP de dentistes,50,03
+6573,SCP,SCP d’infirmiers,50,03
+6574,SCP,SCP de masseurs-kinésithérapeutes,50,03
+6575,SCP,SCP de directeurs de laboratoire d’analyse médicale,50,03
+6576,SCP,SCP de vétérinaires,50,03
+6577,SCP,SCP de géomètres experts,50,03
+6578,SCP,SCP d’architectes,50,03
+6585,SC,Autre société civile professionnelle,50,03
+6588,SCM,Société civile laitière,50,03
+6589,CCM,Société civile de moyens,50,03
+6595,CCAM,Caisse locale de crédit mutuel,65,04
+6596,SCEA,Caisse de crédit agricole mutuel,65,04
+6597,EARL,Société civile d’exploitation agricole,50,03
+6598,SC,Exploitation agricole à responsabilité limitée,50,03
+6599,,Autre société civile,50,03
+6901,,Autre personne de droit privé inscrite au registre du commerce et des sociétés,50,03
+7111,,Autorité constitutionnelle,,
+7112,ETAT,Autorité administrative ou publique indépendante,20,07
+7113,ETAT,Ministère,20,07
+7120,ETAT,Service central d’un ministère,20,07
+7150,ETAT,Service du ministère de la Défense,20,07
+7160,ETAT,Service déconcentré à compétence nationale d’un ministère (hors Défense),20,07
+7171,ETAT,Service déconcentré de l’État à compétence (inter) régionale,20,07
+7172,ETAT,Service déconcentré de l’État à compétence (inter) départementale,20,07
+7179,ETAT,(Autre) Service déconcentré de l’État à compétence territoriale,20,07
+7190,,École nationale non dotée de la personnalité morale,,
+7210,COM,Commune et commune nouvelle,23,09
+7220,DEPT,Département,22,09
+7225,CTOM,Territoire d’Outre-mer,21,09
+7229,COLL,(Autre) Collectivité territoriale,24,09
+7230,COLL,Région,21,09
+7312,,Commune associée et commune déléguée,23,09
+7313,,Section de commune,23,09
+7314,,Ensemble urbain,,
+7321,ASS,Association syndicale autorisée,50,06
+7322,AFU,Association foncière urbaine,50,06
+7323,AFR,Association foncière de remembrement,50,06
+7331,EP,Établissement public local d’enseignement,20,08
+7340,,Pôle métropolitain,24,09
+7341,,Secteur de commune,24,09
+7342,DISU,District urbain,24,09
+7343,COMU,Communauté urbaine,24,09
+7344,,Métropole,24,09
+7345,SIVO,Syndicat intercommunal à vocation multiple (SIVOM),24,09
+7346,CCOM,Communauté de communes,24,09
+7347,COVI,Communauté de villes,24,09
+7348,COAG,Communauté d’agglomération,24,09
+7349,,Autre établissement public local de coopération non spécialisé ou entente,,
+7351,,Institution interdépartementale ou entente,,
+7352,,Institution interrégionale ou entente,,
+7353,SIVU,Syndicat intercommunal à vocation unique (SIVU),24,09
+7354,SYMC,Syndicat mixte fermé,24,09
+7355,SYMI,Syndicat mixte ouvert,24,09
+7356,,Commission syndicale pour la gestion des biens indivis des communes,,
+7357,PETR,Pôle d’équilibre territorial,,
+7361,CCAS,Centre communal d’action sociale,26,09
+7362,,Caisse des écoles,25,09
+7363,CCMU,Caisse de crédit municipal,65,04
+7364,,Établissement d’hospitalisation,27,09
+7365,,Syndicat inter hospitalier,,
+7366,,Établissement public local social et médico-social,,
+7367,CIAS,Centre intercommunal d’action social,,
+7371,OHLM,Office public d’habitation à loyer modéré (OPHLM),,
+7372,SDIS,Service départemental d’incendie,,
+7373,EP,Établissement public local culturel et de secours,20,08
+7378,EPA,Régie d’une collectivité locale à caractère administratif,20,08
+7379,EPA,(Autre) Établissement public administratif local,20,08
+7381,EPA,Organisme consulaire,20,08
+7382,EPA,Établissement public national ayant fonction d’administration centrale,20,08
+7383,EPA,Établissement public national à caractère scientifique culturel et professionnel,20,08
+7384,EPA,Autre établissement public national d’enseignement,20,08
+7385,EPA,Autre établissement public national administratif à compétence territoriale limitée,20,08
+7389,EPA,Établissement public national à caractère administratif,20,08
+7410,GIP,Groupement d’intérêt public (GIP),,
+7430,EPA,Établissement public des cultes d’Alsace-Lorraine,20,08
+7450,EPA,Établissement public administratif cercle et foyer dans les armées,20,08
+7470,GCS,Groupement de coopération sanitaire à gestion publique,,
+7490,,Autre personne morale de droit administratif,,
+7510,,Service d’une collectivité locale à comptabilité distincte,,
+7520,,Régie d’une collectivité locale non dotée de la personnalité morale,,
+8110,SSRG,Régime général de la Sécurité Sociale,60,04
+8120,SSRS,Régime spécial de Sécurité Sociale,60,04
+8130,IRC,Institution de retraite complémentaire,73,05
+8140,MSA,Mutualité sociale agricole,64,04
+8150,,Régime maladie des non-salariés non agricoles,63,04
+8160,,Régime vieillesse ne dépendant pas du régime général de la Sécurité Sociale,63,04
+8170,,Régime d’assurance chômage,63,04
+8190,,Autre régime de prévoyance sociale,63,04
+8210,MUT,Mutuelle,64,04
+8250,MUT,Assurance mutuelle agricole,64,04
+8290,MUT,Autre organisme mutualiste,64,04
+8310,COME,Comité central d’entreprise,,
+8311,COME,Comité d’établissement,,
+8410,OPRO,Syndicat de salariés,,
+8420,OPRO,Syndicat patronal,,
+8450,OPRO,Ordre professionnel ou assimilé,,
+8470,OPRO,Centre technique industriel ou comité professionnel du développement économique,,
+8490,OPRO,Autre organisme professionnel,,
+8510,IP,Institution de prévoyance,,
+8520,IRS,Institution de retraite supplémentaire,73,05
+9110,SYCO,Syndicat de copropriété,,
+9150,ASS,Association syndicale libre,50,06
+9210,ASS,Association non déclarée,50,06
+9220,ASS,Association déclarée,50,06
+9221,ASS,Association déclarée d’insertion par l’économique,50,06
+9222,ASS,Association intermédiaire,50,06
+9223,ASS,Groupement d’employeurs,50,06
+9224,ASS,Association d’avocats à responsabilité professionnelle individuelle,50,06
+9230,ASS,Association déclarée reconnue d’utilité publique,50,06
+9240,ASS,Congrégation,50,06
+9260,ASS,Association de droit local (Bas-Rhin Haut-Rhin et Moselle),50,06
+9300,FON,Fondation,,
+9900,,Autre personne morale de droit privé,50,
+9970,GCS,Groupement de coopération sanitaire à gestion privée,,
+F001,,Les copropriétaires,50,03
+F002,,Les associés de SC,,
+F003,,Professionnels très pauvres du foncier,,

@@ -1,0 +1,40 @@
+CODE,LIBELLE
+MAG1 ,"Boutiques et magasins sur rue (exemples : commerces, restaurants, cafés ou agences bancaires pour une surface principale inférieure à 400 m²)"
+MAG2,Commerces sans accès direct sur la rue (surface principale inférieure à 400 m²)
+MAG3,Magasins appartenant à un ensemble commercial (surface principale inférieure à 400 m²)
+MAG4,Magasins de grande surface (surface principale comprise entre 400 et 2 499 m²)
+MAG5,Magasins de très grande surface (surface principale égale ou supérieure à 2 500 m²)
+MAG6,"Stations-service, stations de lavage et assimilables"
+MAG7,Marchés
+BUR1,Locaux à usage de bureaux d’agencement ancien
+BUR2,Locaux à usage de bureaux d’agencement récent
+BUR3,Locaux assimilables à des bureaux mais présentant des aménagements spécifiques
+DEP1,Lieux de dépôt à ciel ouvert et terrains à usage commercial ou industriel
+DEP2,Lieux de dépôt couverts
+DEP3,Parcs de stationnement à ciel ouvert
+DEP4,Parcs de stationnement couverts
+DEP5,Installations spécifiques de stockage
+ATE1,Ateliers artisanaux
+ATE2,"Locaux utilisés pour une activité de transformation, de manutention ou de maintenance"
+ATE3,"Chenils, viviers et autres locaux assimilables"
+HOT1,"Hôtels «confort» (4 étoiles et plus, ou confort identique)"
+HOT2,"Hôtels «supérieur» (2 ou 3 étoiles, ou confort identique)"
+HOT3,"Hôtels «standard» (1 étoile, ou confort identique) "
+HOT4,"Foyers d’hébergement, centres d’accueil, auberges de jeunesse"
+HOT5,"Hôtels clubs, villages de vacances et résidences hôtelières"
+SPE1,"Salles de spectacles, musées et locaux assimilables"
+SPE2,Établissements ou terrains affectés à la pratique d’un sport ou à usage de spectacles sportifs
+SPE3,Salles de loisirs diverses
+SPE4,"Terrains de camping confortables (3 étoiles et plus, ou confort identique)"
+SPE5,"Terrains de camping ordinaires (1 ou 2 étoiles, ou confort identique)"
+SPE6,Établissements de détente et de bien-être
+SPE7,"Centres de loisirs, centres de colonies de vacances, maisons de jeunes"
+ENS1,Écoles et institutions privées exploitées dans un but non lucratif
+ENS2,Établissements d’enseignement à but lucratif
+CLI1,Cliniques et établissements hospitaliers
+CLI2,"Centres médico-sociaux, centres de soins, crèches, halte-garderies"
+CLI3,"Maisons de repos, maisons de retraite (médicalisées ou non) et locaux assimilables"
+CLI4,"Centres de rééducation, de thalassothérapie, établissements thermaux"
+IND1,Établissements industriels nécessitant un outillage important autres que les carrières et assimilés
+IND2,Carrières et établissements assimilables
+EXC1,Locaux ne relevant d’aucune des catégories précédentes par leurs caractéristiques sortant de l’ordinaire
