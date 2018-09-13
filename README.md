@@ -1,0 +1,2 @@
+# MAJIC
+Informations, fichiers descriptifs
