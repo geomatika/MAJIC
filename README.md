@@ -2,9 +2,9 @@
 
 Ce dépot contient : 
 
-  Les fichiers descriptifs de la Base de données MAJIC3 ( version 2018 )
+  <ul<li>Les fichiers descriptifs de la Base de données MAJIC3 ( version 2018 )</li>
 
-  Les tableaux des codes correspondant à l'année 2018  
+  <li>Les tableaux des codes correspondant à l'année 2018</li></ul>
  
 Les tableaux de codes sont assez complets sans pour autant être exacts ou exhaustifs.
 
